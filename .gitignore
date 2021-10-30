@@ -1,0 +1,16 @@
+# Config file BackUp's
+*.[bB][aA][kK]
+
+# Auto-generated stuff
+updates
+profiler_data
+
+# Default Plgin data
+plugin_config/obs-browser
+plugin_config/rtmp-services
+plugin_config/text-freetype2
+plugin_config/win-capture
+
+# Logs & crash dumps
+logs
+crashes
