@@ -14,3 +14,6 @@ plugin_config/win-capture
 # Logs & crash dumps
 logs
 crashes
+
+# Sensitive data
+basic/profiles/Kumiko/service.json
