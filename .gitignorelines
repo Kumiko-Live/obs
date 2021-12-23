@@ -3,3 +3,5 @@ RecFilePath
 RefreshToken
 Token
 ExpireTime
+AuthSecret
+AuthSalt
